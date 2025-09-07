@@ -5,14 +5,21 @@ Desenvolver uma aplicação web simples que permita ao usuário registrar hábit
 
 # Tecnologias utilizadas
 React
+
 JavaScript (ES6+)
+
 HTML5
+
 CSS3
 
 
 # O que aprendi
 Gerenciamento de Estado Avançado: uso combinado de useState e useEffect para salvar e carregar hábitos do LocalStorage.
+
 Listas e Keys: renderização dinâmica de múltiplos hábitos utilizando arrays e mapeamento.
+
 Eventos do Usuário: captura de interações (cliques, marcações de checkbox) para atualizar o estado.
+
 Estilização Modular: uso de CSS modularizado para organizar a interface.
+
 Feedback Visual: barra de progresso exibindo o percentual de hábitos concluídos no dia.
